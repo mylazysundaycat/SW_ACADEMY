@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SW_ACADEMY.iml" filepath="$PROJECT_DIR$/.idea/SW_ACADEMY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cnu_swacademy.iml" filepath="$PROJECT_DIR$/.idea/cnu_swacademy.iml" />
     </modules>
   </component>
 </project>
